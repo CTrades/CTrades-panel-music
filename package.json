@@ -4,13 +4,16 @@
   "description": "CTrades love u",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "CTrades",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^22.13.11",
-    "discord.js": "^14.21.0"
+    "discord.js": "^14.21.0",
+    "mongodb": "^6.6.1",
+    "dotenv": "^16.4.1"
   }
 }
