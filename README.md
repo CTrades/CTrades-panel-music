@@ -7,12 +7,9 @@ full system panel music
 ### Quick Installation (recommended)
 
  # Install globally
-1 -
-```bash
-npm install
-```
 
-1 - Or 
+
+1 - 
 ```bash
 git clone https://github.com/CTrades/CTrades-panel-music.git
 ```
