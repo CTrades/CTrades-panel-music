@@ -29,6 +29,16 @@ npm install
 ```bash
 node index.js
 ```
+# How to Get Your Discord Token From the Browser Console
+
+- Open the browser console with `F12` or `Ctrl + Shift + I`.
+- Go to the network tab
+- Filter by Fetch/XHR
+- Choose a request that isn't an error (if there aren't any, click on a channel or server to trigger some requests.)
+- You'll find your discord token under the `request headers` -> `authorization` section. Copy and paste it from there.
+
+![image](https://gist.github.com/assets/17340496/ca1be329-1ef8-4b6f-ab96-dd9324d511db)
+
 
 ## Features
 
