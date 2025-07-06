@@ -1,4 +1,4 @@
-// /commands/general/avatar.js
+
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 
 module.exports = {
